@@ -1,3 +1,13 @@
+# 수어 생성을 위한 Articulated Animation 모델 학습 & 데모
+1. 01_preprocessing and training.ipynb
+2. 02_demo.ipynb
+
+순서로 실행
+
+
+
+
+
 # Motion Representations for Articulated Animation
 
 This repository contains the source code for the CVPR'2021 paper [Motion Representations for Articulated Animation](https://arxiv.org/abs/2104.11280) by [Aliaksandr Siarohin](https://aliaksandrsiarohin.github.io/aliaksandr-siarohin-website/), [Oliver  Woodford](https://ojwoodford.github.io/), [Jian Ren](https://alanspike.github.io/), [Menglei Chai](https://mlchai.com/) and [Sergey Tulyakov](http://www.stulyakov.com/). 
